@@ -1,6 +1,6 @@
 ---
 title: "Github 블로그 만들기"
-date: 2023-11-12 12:24:00 +0900
+date: 2023-11-19 12:17:00 +0900
 categories: [blog]
 tags: [github Pages, github Blog, blog, velog, github]
 ---
