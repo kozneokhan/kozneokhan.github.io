@@ -1,6 +1,6 @@
 ---
-title: "Github 블로그 만들기 3편_Ruby와 Jekyll 설치하기"
-date: 2023-11-26 02:50:00 +0900
+title: "Github 블로그 만들기 2편_Ruby와 Jekyll 설치하기"
+date: 2023-11-26 04:16:00 +0900
 categories: [blog]
 tags: [github Pages, github Blog, blog, velog, github]
 ---
@@ -49,8 +49,7 @@ Jekyll을 통해 웹사이트를 만들거나 관리하는 데에는 기본적�
 
 ---
 
-[![RubyInstall1](https://github.com/kozneokhan/kozneokhan.github.io/assets/149942572/c367f811-a795-4ae1-99db-1da10f748488)
-](https://rubyinstaller.org/downloads/archives/)
+[![RubyInstall1](https://github.com/kozneokhan/kozneokhan.github.io/assets/149942572/c367f811-a795-4ae1-99db-1da10f748488)](https://rubyinstaller.org/downloads/archives/)
 
 ---
 
