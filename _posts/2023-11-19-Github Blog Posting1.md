@@ -1,11 +1,11 @@
 ---
-title: "Github 블로그 만들기"
+title: "Github 블로그 만들기를 시작하며"
 date: 2023-11-19 12:17:00 +0900
 categories: [blog]
 tags: [github Pages, github Blog, blog, velog, github]
 ---
 
-![GitHub Pages](https://mail.google.com/mail/u/0?ui=2&ik=d9dea8af36&attid=0.1&permmsgid=msg-a:r-4269102455967540105&th=18be808435865199&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_C8dg6R-NQlHDQdRGKLKjL2zpbe6DxzCb9CiYaRmWMbst_NbBErB4FHHnBkgOfyLEB5uniPBbQfKPsgxaQ_cmuZjt7NDnGTsJ0etWlg_6d0XyTslWbYQWe98Y&disp=emb&realattid=ii_lp5l6h1v0)
+![GithubPage](https://github.com/kozneokhan/kozneokhan.github.io/assets/149942572/b4e12e20-719e-489e-979a-02b835655645)
 
 > ## **Github 블로그를 시작하게 된 동기**
 
