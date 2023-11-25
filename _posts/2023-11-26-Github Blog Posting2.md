@@ -49,7 +49,7 @@ Jekyll을 통해 웹사이트를 만들거나 관리하는 데에는 기본적�
 
 ---
 
-[![RubyInstall1](https://github.com/kozneokhan/kozneokhan.github.io/assets/149942572/c367f811-a795-4ae1-99db-1da10f748488)](https://rubyinstaller.org/downloads/archives/)
+[![RubyInstall1](https://github.com/kozneokhan/kozneokhan.github.io/assets/149942572/c367f811-a795-4ae1-99db-1da10f748488)](https://rubyinstaller.org/downloads/archives/)[Ruby Installer 이미지를 클릭하면 다운로드 페이지로 이동합니다.]
 
 ---
 
